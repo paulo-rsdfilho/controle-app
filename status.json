@@ -1,4 +1,18 @@
 {
-  "ativo": false,
-  "mensagem": "Sistema desativado"
+  "ativo": true,
+  "mensagem": "Sistema funcionando",
+
+  "_bloqueio": {
+    "ativo": false,
+    "mensagem": "Erro SJ1 ou SJ2"
+  },
+
+  "_manutencao": {
+    "ativo": false,
+    "mensagem": "Sistema em manutenção"
+  },
+
+  "_funcionado": {
+    "ativo": true,
+  "mensagem": "Sistema funcionando",
 }
